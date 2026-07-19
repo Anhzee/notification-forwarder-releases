@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.4.1/NotificationForwarder-v1.4.1.apk",
-  "sha256": "A0CE48150966F32F17DE432FD48145364508877BB61D676C981598E92B2291D8",
+  "versionCode": 7,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.4.2/NotificationForwarder-v1.4.2.apk",
+  "sha256": "8CEB3FE9397B16B7EFEED0F3D41A8089A369EAF6BB3E71A6D2C57F610C19E2B5",
   "required": false,
   "minimumSupportedVersionCode": 4,
-  "releaseNotes": "Sửa bộ lọc thông báo chỉ nhận ứng dụng đã chọn và thêm giao diện chọn ứng dụng đã cài."
+  "releaseNotes": "Cải thiện nhận diện mã giao dịch ACB: mã đủ dài từ 12 ký tự trở lên được dùng làm ref thật; mã ngắn hơn sẽ dùng fallback ổn định. Bổ sung khóa liên kết giao dịch để tránh gửi Telegram trùng khi notification cập nhật từ partial sang full."
 }
