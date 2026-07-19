@@ -1,9 +1,9 @@
-﻿{
-    "versionCode":  5,
-    "versionName":  "1.4.0",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.4.0/NotificationForwarder-v1.4.0.apk",
-    "sha256":  "50651146684ed9b8ef4125b4567607e0907618a75b4a16a2e672cff3d96b220a",
-    "required":  false,
-    "minimumSupportedVersionCode":  4,
-    "releaseNotes":  "Sửa lỗi bỏ sót giao dịch, cải thiện xử lý gửi Telegram, retry và hệ thống cập nhật từ xa."
+{
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.4.0/NotificationForwarder-v1.4.0.apk",
+  "sha256": "50651146684ed9b8ef4125b4567607e0907618a75b4a16a2e672cff3d96b220a",
+  "required": false,
+  "minimumSupportedVersionCode": 4,
+  "releaseNotes": "Sửa lỗi bỏ sót giao dịch, cải thiện xử lý gửi Telegram, retry và hệ thống cập nhật từ xa."
 }
