@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.1/NotificationForwarder-v1.5.1.apk",
-  "sha256": "a863f2907381767138c8a61b669795dfc30943b656314d7900f94e56a8c09b42",
+  "versionCode": 11,
+  "versionName": "1.5.3",
+  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.3/NotificationForwarder-v1.5.3.apk",
+  "sha256": "607e48a5c98d13cfdccf929000543d960a16afa72c286fa635164713055e3f0d",
   "required": false,
   "minimumSupportedVersionCode": 4,
-  "releaseNotes": "Thêm tính năng GemQR: Tạo mã QR chuyển khoản ngân hàng. Tải danh sách ngân hàng từ API VietQR, cache 7 ngày, fallback offline. Hỗ trợ ACB, Vietcombank, VPBank, Techcombank, BIDV, MB Bank. Cho phép chọn logo và viền QR. Lưu ảnh QR vào Pictures/GemQR. Sử dụng API VietQR chuẩn NAPAS để tạo mã QR tương thích với các app ngân hàng."
+  "releaseNotes": "Hoàn thiện GemQR với mẫu thẻ QR mèo tím mới; thêm trang trí cạnh tên ngân hàng; cải thiện bố cục thông tin thanh toán; hiển thị STK và số tiền cùng một dòng, nội dung ở dòng riêng; giữ logo cá nhân bo góc và thêm xác nhận lưu ảnh thành công."
 }
