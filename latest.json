@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.5.3",
-  "apkUrl": "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.3/NotificationForwarder-v1.5.3.apk",
-  "sha256": "607e48a5c98d13cfdccf929000543d960a16afa72c286fa635164713055e3f0d",
-  "required": false,
-  "minimumSupportedVersionCode": 4,
-  "releaseNotes": "Hoàn thiện GemQR với mẫu thẻ QR mèo tím mới; thêm trang trí cạnh tên ngân hàng; cải thiện bố cục thông tin thanh toán; hiển thị STK và số tiền cùng một dòng, nội dung ở dòng riêng; giữ logo cá nhân bo góc và thêm xác nhận lưu ảnh thành công."
+    "versionCode":  12,
+    "versionName":  "1.5.4",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.4/NotificationForwarder-v1.5.4.apk",
+    "sha256":  "13030807fc03b79814813192cc6270ce7f60fc9a86532f9917dc531dacf38480",
+    "required":  false,
+    "minimumSupportedVersionCode":  4,
+    "releaseNotes":  "Sửa parser ACB/VietQR để nhận NAPKC không phân biệt hoa thường ở mọi vị trí; lấy đúng orderId ngay sau NAPKC; hỗ trợ nội dung MBVCB có NAPKC nằm sâu; cải thiện dedup và log lý do khi bỏ qua giao dịch."
 }
