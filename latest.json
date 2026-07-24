@@ -1,9 +1,9 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.5.4",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.4/NotificationForwarder-v1.5.4.apk",
-    "sha256":  "13030807fc03b79814813192cc6270ce7f60fc9a86532f9917dc531dacf38480",
+    "versionCode":  13,
+    "versionName":  "1.5.5",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.5/NotificationForwarder-v1.5.5.apk",
+    "sha256":  "2c817be11109b274aef8ee05a73c2382fc731bce82463f00209d05c0e6b62697",
     "required":  false,
     "minimumSupportedVersionCode":  4,
-    "releaseNotes":  "Sửa parser ACB/VietQR để nhận NAPKC không phân biệt hoa thường ở mọi vị trí; lấy đúng orderId ngay sau NAPKC; hỗ trợ nội dung MBVCB có NAPKC nằm sâu; cải thiện dedup và log lý do khi bỏ qua giao dịch."
+    "releaseNotes":  "Thêm hỗ trợ nhận diện từ khóa viết tắt nkc và NKC trong thông báo giao dịch; tự động chuẩn hóa thành napkc khi chuyển tiếp sang Telegram."
 }
