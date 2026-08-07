@@ -1,9 +1,9 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.5.8",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.5.8/NotificationForwarder-v1.5.8.apk",
-    "sha256":  "64B859343E030BBCD0566B807778C40EFA5E714C17A13047D8C9633DA3F6BB7F",
+    "versionCode":  17,
+    "versionName":  "1.6.0",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.0/NotificationForwarder-v1.6.0.apk",
+    "sha256":  "27f4e66ea961bc42a9cccf1ef6ad70d861650a6c322a6f77a2c9793b8fc504c5",
     "required":  false,
-    "minimumSupportedVersionCode":  4,
-    "releaseNotes":  "Sửa lỗi listener không tự live lại sau khi cập nhật trên HyperOS; tự restart component một lần theo phiên bản, giữ CPU bằng wake lock có thời hạn trong pipeline và cho phép hoạt động khi tắt màn hình/Doze."
+    "minimumSupportedVersionCode":  16,
+    "releaseNotes":  "Nâng cấp độ tin cậy chạy nền, hàng đợi Telegram bền vững, mã hóa cấu hình, chẩn đoán hệ thống và cải thiện bộ lọc ứng dụng."
 }
