@@ -1,9 +1,9 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.6.0",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.0/NotificationForwarder-v1.6.0.apk",
-    "sha256":  "27f4e66ea961bc42a9cccf1ef6ad70d861650a6c322a6f77a2c9793b8fc504c5",
+    "versionCode":  18,
+    "versionName":  "1.6.1",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.1/NotificationForwarder-v1.6.1.apk",
+    "sha256":  "67b69cad4c8d09966828d49eeabf92bc5e0cdbe750656e3a94c98b016f5c8f71",
     "required":  false,
     "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Nâng cấp độ tin cậy chạy nền, hàng đợi Telegram bền vững, mã hóa cấu hình, chẩn đoán hệ thống và cải thiện bộ lọc ứng dụng."
+    "releaseNotes":  "Sửa lỗi HyperOS trì hoãn NotificationListener khi khóa màn hình bằng foreground keep-alive có thông báo công khai; bổ sung trạng thái screenInteractive và độ trễ callback để chẩn đoán."
 }
