@@ -1,9 +1,9 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.6.1",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.1/NotificationForwarder-v1.6.1.apk",
-    "sha256":  "67b69cad4c8d09966828d49eeabf92bc5e0cdbe750656e3a94c98b016f5c8f71",
+    "versionCode":  19,
+    "versionName":  "1.6.2",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.2/NotificationForwarder-v1.6.2.apk",
+    "sha256":  "4bf7557517cf116341ffb3744e1531d823fc3f1f34e0d1ce09f71d5cc3a079ad",
     "required":  false,
     "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Sửa lỗi HyperOS trì hoãn NotificationListener khi khóa màn hình bằng foreground keep-alive có thông báo công khai; bổ sung trạng thái screenInteractive và độ trễ callback để chẩn đoán."
+    "releaseNotes":  "Việt hóa toàn bộ giao diện, trạng thái, thông báo lỗi và hướng dẫn sử dụng; cải thiện cách hiển thị trạng thái kỹ thuật để dễ hiểu hơn; tiếp tục duy trì trình nghe thông báo khi màn hình khóa."
 }
