@@ -1,9 +1,9 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.6.2",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.2/NotificationForwarder-v1.6.2.apk",
-    "sha256":  "4bf7557517cf116341ffb3744e1531d823fc3f1f34e0d1ce09f71d5cc3a079ad",
+    "versionCode":  20,
+    "versionName":  "1.6.3",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.3/NotificationForwarder-v1.6.3.apk",
+    "sha256":  "e82b88d95c429b5f35b4200f8f89745cabaf60357113a18adf12c82c47c1a96b",
     "required":  false,
     "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Việt hóa toàn bộ giao diện, trạng thái, thông báo lỗi và hướng dẫn sử dụng; cải thiện cách hiển thị trạng thái kỹ thuật để dễ hiểu hơn; tiếp tục duy trì trình nghe thông báo khi màn hình khóa."
+    "releaseNotes":  "Cập nhật phiên bản v1.6.3"
 }
