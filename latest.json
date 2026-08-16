@@ -1,9 +1,9 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.6.5",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.5/NotificationForwarder-v1.6.5.apk",
-    "sha256":  "e36438835cac5dfcc48fab6cda69886d31907da1970eb96776d694040eafd31a",
+    "versionCode":  23,
+    "versionName":  "1.6.6",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.6/NotificationForwarder-v1.6.6.apk",
+    "sha256":  "aefc7ad0a36b3833f97447ce521b4a90efbf0d9f0de8284286cecc8427126b7a",
     "required":  false,
     "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Cập nhật phiên bản v1.6.5"
+    "releaseNotes":  "Cập nhật phiên bản v1.6.6"
 }
