@@ -1,9 +1,9 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.6.8",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.8/NotificationForwarder-v1.6.8.apk",
-    "sha256":  "c66ad0e6c7e825ce64887f96361a1c2abb03d02a80c7d96eea6bab0f2842720a",
+    "versionCode":  26,
+    "versionName":  "1.6.9",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.6.9/NotificationForwarder-v1.6.9.apk",
+    "sha256":  "01014dee8f12c34022e26408079e31a756931c153ae4890e85f6284cee23b4a1",
     "required":  false,
     "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Fix lỗi ghi giao dịch vào Excel: chèn dòng mới trước hàng tổng màu cam, đồng bộ định dạng và giữ nguyên cấu trúc dữ liệu."
+    "releaseNotes":  "Cập nhật phiên bản v1.6.9"
 }
