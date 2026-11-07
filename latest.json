@@ -1,9 +1,9 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.7.0",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.7.0/NotificationForwarder-v1.7.0.apk",
-    "sha256":  "f125a489137566d59228fb04f2a48475d52abae3a4f157b6a9530dcde7c8a3dc",
+    "versionCode":  28,
+    "versionName":  "1.7.1",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.7.1/NotificationForwarder-v1.7.1.apk",
+    "sha256":  "5c751e10681058a47fe942c99a10ecf9564112ac333101a2fa64b8bd9524e5af",
     "required":  false,
-    "minimumSupportedVersionCode":  16,
-    "releaseNotes":  "Cải thiện framework xử lý thông báo theo ngân hàng, giữ nguyên xử lý ACB và tăng độ tin cậy khi phân tích."
+    "minimumSupportedVersionCode":  27,
+    "releaseNotes":  "Bổ sung parser VPBank NEO; nhận diện số tiền vào ở đầu thông báo, NAPKC và TRACE; giữ nguyên xử lý ACB."
 }
