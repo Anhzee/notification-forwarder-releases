@@ -1,9 +1,9 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.7.2",
-    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.7.2/NotificationForwarder-v1.7.2.apk",
-    "sha256":  "44bf5e71f3e5338ee9a90de6bb39214a5676c54d342afc2e4ba6116a5b1daaaf",
+    "versionCode":  30,
+    "versionName":  "1.7.3",
+    "apkUrl":  "https://github.com/Anhzee/notification-forwarder-releases/releases/download/v1.7.3/NotificationForwarder-v1.7.3.apk",
+    "sha256":  "112e358189f7abc0eeca13d0c7a05250e78adbfa04a8eef7b2eaf3aa9fea0e2a",
     "required":  false,
-    "minimumSupportedVersionCode":  28,
-    "releaseNotes":  "Sửa nhận diện số tiền VPBank NEO khi amount nằm trong tiêu đề notification; giữ nguyên xử lý ACB."
+    "minimumSupportedVersionCode":  29,
+    "releaseNotes":  "Sửa nhận dạng amount VPBank NEO có khoảng trắng/ký hiệu tiền tệ Unicode; giữ nguyên xử lý ACB."
 }
